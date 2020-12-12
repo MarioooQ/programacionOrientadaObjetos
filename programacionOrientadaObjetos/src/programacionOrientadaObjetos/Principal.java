@@ -7,5 +7,6 @@ public class Principal
 		Persona objPersonaUno=new Persona();
 		objPersonaUno.nombre="Gandalf";
 		System.out.print(objPersonaUno.nombre);
+		
 	}
 }
